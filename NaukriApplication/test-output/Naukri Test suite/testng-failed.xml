@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Naukri Test suite]">
+  <test name="Verify Login(failed)">
+    <classes>
+      <class name="testCasesNaukri.DeleteResume">
+        <methods>
+          <include name="cancelButton"/>
+        </methods>
+      </class> <!-- testCasesNaukri.DeleteResume -->
+      <class name="testCasesNaukri.NaukriLogin">
+        <methods>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCasesNaukri.NaukriLogin -->
+    </classes>
+  </test> <!-- Verify Login(failed) -->
+</suite> <!-- Failed suite [Naukri Test suite] -->

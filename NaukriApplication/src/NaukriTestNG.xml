@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Naukri Test suite">
+<test name="Verify Login">
+<classes>
+<class name="testCasesNaukri.NaukriLogin"></class>
+<class name="testCasesNaukri.ProfileValidation"></class>
+<class name="testCasesNaukri.DeleteResume"></class>
+
+<!--<class name="testCasesNaukri.ViewAllTestcase"></class>-->
+</classes>
+</test> 
+
+<!--  <test name="Verify Credential field validation">
+<classes>
+<class name="testCasesNaukri.ValidateCredentials"></class>
+</classes>
+</test>-->
+</suite>
+
